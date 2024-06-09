@@ -49,8 +49,8 @@ fun evaluar():String{
     for (numero in 23..99){
         val numeroCadena = numero.toString()
 
-        for(char in numeroCadena){
-            valor+=char.toString().toInt()
+        for(c in numeroCadena){
+            valor+=c.toString().toInt()
         }
     }
     resultado="La sumatorio de los dígitos entre 23 y 99 es: $valor"
