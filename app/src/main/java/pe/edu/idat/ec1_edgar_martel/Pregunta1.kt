@@ -26,7 +26,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun alcholoemia(){
+fun Pregunta01(){
     Box(modifier = Modifier
         .fillMaxSize()
         .padding(25.dp)){

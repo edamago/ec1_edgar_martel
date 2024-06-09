@@ -26,7 +26,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun operacionesNumeros(){
+fun Pregunta02(){
     Box(modifier = Modifier
         .fillMaxSize()
         .padding(25.dp)){

@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Ec1_edgar_martelTheme {
-                operacionesNumeros()
+                Pregunta04()
             }
         }
     }
